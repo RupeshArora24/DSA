@@ -28,3 +28,5 @@ for i in range(N+1):
             count+=mapp[prefix[i]]
 
 print(count,mapp)        
+
+#changes 
