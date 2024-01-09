@@ -1,4 +1,4 @@
-N = int(input())
+N = int(input())     
 arr = list(map(int,input().strip().split()))
 Q = int(input())
 prefix=[0]*(N+1)
